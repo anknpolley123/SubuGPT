@@ -71,12 +71,12 @@ def save_config(config):
 def banner():
     try:
         figlet = pyfiglet.Figlet(font="big")
-        print(f"{colors.bright_red}{figlet.renderText('WormGPT')}{colors.reset}")
+        print(f"{colors.bright_red}{figlet.renderText('SubuGPT')}{colors.reset}")
     except:
         print(f"{colors.bright_red}SubuGPT{colors.reset}")
-    print(f"{colors.bright_red}WormGPT CLI{colors.reset}")
+    print(f"{colors.bright_red}SubuGPT CLI{colors.reset}")
     print(f"{colors.bright_cyan}OpenRouter API | {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}{colors.reset}")
-    print(f"{colors.bright_cyan}Made With Love <3 {colors.bright_red}t.me/xsocietyforums {colors.reset}- {colors.bright_red}t.me/astraeoul\n")
+    print(f"{colors.bright_cyan} Developed by Ankon Polley <3 {colors.bright_red}https://www.instagram.com/its_an_geun_woo?igsi=OTNqMndzdDFzZ293 {colors.reset}- {colors.bright_red}https://www.instagram.com/its_ankon_polley?igsi=MXQyNnVpcGV2bmF5aw==\n")
 
 def clear_screen():
     os.system("cls" if platform.system() == "Windows" else "clear")
