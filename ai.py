@@ -46,7 +46,7 @@ PROMPT_FILE = "system-prompt.txt"  # 🧩 Local system prompt file
 DEFAULT_API_KEY = ""
 DEFAULT_BASE_URL = "https://openrouter.ai/api/v1"
 DEFAULT_MODEL = "deepseek/deepseek-chat-v3-0324:free"
-SITE_URL = "https://github.com/hexsecteam/worm-gpt"
+SITE_URL = "https://github.com/anknpolley123/SubuGPT"
 SITE_NAME = "SubuGPT CLI"
 SUPPORTED_LANGUAGES = ["English", "Indonesian", "Spanish", "Arabic", "Thai", "Portuguese"]
 
