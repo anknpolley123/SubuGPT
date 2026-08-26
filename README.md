@@ -52,8 +52,18 @@ export OPENROUTER_API_KEY="Your api key"
 
 python3 op.py
 ```
+Open Config File
 
-If you get this message 
+```bash
+{
+  "api_key": "Paste Your API Key",
+  "base_url": "https://openrouter.ai/api/v1",
+  "model": "openrouter/free",
+  "language": "English"
+}
+```
+
+###If you get this message 
 
 ```bash
 ┌──(Ankon)(kali㉿localhost)-[~/SubuGPT]
