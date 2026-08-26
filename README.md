@@ -33,23 +33,28 @@ Clone the repo:
 ```bash
 git clone https://github.com/anknpolley123/SubuGPT
 cd SubuGPT
-python3 ai.py
 ```
 
-## 🔑 Set Your API Key
+## Setup
 
-You can set your OpenRouter API key via the main menu:
-```
-[3] Set API Key
-```
+```bash
+export OPENROUTER_API_KEY="Your api key"
 
-1. export OPENROUTER_API_KEY="Your Api Key"
+# Run command for validating api key
 
-2.Run python3 op.py
-
+python3 op.py
 ```
 
-## 🧠 Usage Example
+If you get this message 
+
+```bash
+┌──(Ankon)(kali㉿localhost)-[~/SubuGPT]
+└─$ python3 op.py
+Quantum computing uses quantum bits (qubits) that can exist in superposition and become entangled, allowing a quantum computer to process many possibilities simultaneously and solve certain problems exponentially faster than classical computers.
+```
+You succeed
+
+## 🧠 After Setup Run this commad to use it
 
 ```
 python3 ai.py
