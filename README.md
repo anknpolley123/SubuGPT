@@ -43,14 +43,10 @@ You can set your OpenRouter API key via the main menu:
 [3] Set API Key
 ```
 
-Or manually edit the config file:
-```
-{
-  "api_key": "YOUR_API_KEY_HERE",
-  "base_url": "https://openrouter.ai/api/v1",
-  "model": "deepseek/deepseek-chat-v3-0324:free",
-  "language": "English"
-}
+1. export OPENROUTER_API_KEY="Your Api Key"
+
+2.Run python3 op.py
+
 ```
 
 ## 🧠 Usage Example
