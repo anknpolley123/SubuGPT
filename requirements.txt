@@ -1,3 +1,5 @@
 langdetect
 pyfiglet
 requests
+openai
+openrouter
