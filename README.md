@@ -1,8 +1,8 @@
-# 🐛 SubuGPT CLI - OpenRouter Edition
+# SubuGPT CLI - OpenRouter Edition
 
 **SubuGPT CLI** is a sleek command-line interface (CLI) for interacting with LLMs via OpenRouter API. It supports multiple models, automatic language detection, and customizable settings — all in a terminal-friendly format.
 
-> ⚡ Lightweight. Powerful. Fully terminal-based. Developed by [@anknpolley123](https://github.com/anknpolley123)
+>  Lightweight. Powerful. Fully terminal-based. Developed by [@anknpolley123](https://github.com/anknpolley123)
 
 ---
 
