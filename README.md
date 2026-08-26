@@ -38,6 +38,14 @@ cd SubuGPT
 ## Setup
 
 ```bash
+#create virtual environment 
+
+# Then Install all Requirements
+
+pip install -r requirements.txt 
+
+# Set Your Api At kali
+
 export OPENROUTER_API_KEY="Your api key"
 
 # Run command for validating api key
