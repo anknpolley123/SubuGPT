@@ -2,7 +2,7 @@
 
 **SubuGPT CLI** is a sleek command-line interface (CLI) for interacting with LLMs via OpenRouter API. It supports multiple models, automatic language detection, and customizable settings — all in a terminal-friendly format.
 
-> ⚡ Lightweight. Powerful. Fully terminal-based. Made with ❤️ by [@anknpolley123](https://github.com/anknpolley123)
+> ⚡ Lightweight. Powerful. Fully terminal-based. Developed by [@anknpolley123](https://github.com/anknpolley123)
 
 ---
 
@@ -63,7 +63,7 @@ Open Config File
 }
 ```
 
-###If you get this message 
+### If you get this message 
 
 ```bash
 ┌──(Ankon)(kali㉿localhost)-[~/SubuGPT]
