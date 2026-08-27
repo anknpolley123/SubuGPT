@@ -96,6 +96,7 @@ Run
 
 
 ```
+
 Open Config File
 
 ```bash
@@ -127,14 +128,17 @@ python3 ai.py
 ## Start Chat
 
 ```
+
+### 📷 Example Screenshot
+![SubuGPT CLI Example](assets/Screenshot_20260825_234703_Termux.jpg)
+
 ```bash
 ## 🧪 Custom Models
 
 For custom models you have to use all these steps.
 ```
-
-### 📷 Example Screenshot
-![SubuGPT CLI Example](assets/Screenshot_20260825_234703_Termux.jpg)
+## Example of Custom Models
+![SubuGPT Custom Model Example](assets/Screenshot_20260827_142053_Termux.jpg)
 
 ## 👨‍💻 Author
 
