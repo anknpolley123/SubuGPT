@@ -38,19 +38,63 @@ cd SubuGPT
 ## Setup
 
 ```bash
+
+#Step 1
+
 #create virtual environment 
 
-# Then Install all Requirements
+run 
+    python3 -m venv Ankon
+    
+    source ankon/bin/activate
+
+# Step 2
+
+# Install all Requirements
 
 pip install -r requirements.txt 
+
+# Step 3
 
 # Set Your Api At kali
 
 export OPENROUTER_API_KEY="Your api key"
 
-# Run command for validating api key
+# set your model
 
-python3 op.py
+    # For example aion3.0
+
+ open aion3.py file and Enter your API key in 4th line 
+
+  API_KEY = "sk...."
+
+then save it.
+ 
+## Step 4
+
+#run 
+    python3 aion3.py
+
+## Step 5 
+then again type
+
+export OPENROUTER_API_KEY="Your api key"
+
+## Step 6
+ 
+Run
+    python3 ai.py
+
+# Select the option which is named as API Key option3 
+# Select the option 2 
+# Paste your Struggled API
+# exit
+
+
+
+### For every model you have to set api in the model named file and you have to do above process.
+
+
 ```
 Open Config File
 
@@ -63,18 +107,10 @@ Open Config File
 }
 ```
 
-### If you get this message 
-
-```bash
-┌──(Ankon)(kali㉿localhost)-[~/SubuGPT]
-└─$ python3 op.py
-Quantum computing uses quantum bits (qubits) that can exist in superposition and become entangled, allowing a quantum computer to process many possibilities simultaneously and solve certain problems exponentially faster than classical computers.
-```
-You succeed
 
 ## 🧠 After Setup Run this commad to use it
 
-```
+```bash
 python3 ai.py
 ```
 
@@ -83,20 +119,18 @@ python3 ai.py
 ```
 [ Main Menu ]
 1. Language: English
-2. Model: deepseek/deepseek-chat-v3-0324:free
+2. Model: *****
 3. Set API Key
 4. Start Chat
 5. Exit
-```
 
+## Start Chat
+
+```
+```bash
 ## 🧪 Custom Models
 
-From the menu, you can enter your own model ID (from OpenRouter).
-
-Example:
-```
-01-ai/Yi-34B-Chat
-meta-llama/llama-3-8b-instruct:nitro
+For custom models you have to use all these steps.
 ```
 
 ### 📷 Example Screenshot
