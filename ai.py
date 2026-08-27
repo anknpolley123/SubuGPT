@@ -577,14 +577,14 @@ def banner():
 
     print(
         f"{colors.bright_cyan}"
-        "OpenRouter API | "
+        "SubuGPT API | "
         f"{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
         f"{colors.reset}"
     )
 
     print(
         f"{colors.bright_cyan}"
-        "Developed by Ankon Polley <3"
+        "Developed by Ankon Polley👨‍💻"
         f"{colors.reset}"
     )
 
