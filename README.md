@@ -140,7 +140,7 @@ For custom models you have to use all these steps.
 ## Example of Custom Models
 ![SubuGPT Custom Model Example](assets/Screenshot_20260827_142053_Termux.jpg)
 
-## 👨‍💻 Author
+## For Support
 
 <p align="left">
   <a href="https://www.instagram.com/itz_vorzhevik_volnyshev?igsh=OTNqMndzdDFzZ293"><img src="https://img.shields.io/badge/Instagram-Main-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -153,3 +153,21 @@ For custom models you have to use all these steps.
 </p>
 
 Project URL: https://github.com/anknpolley123/SubuGPT
+
+
+## 👨‍💻 Developer
+
+**Ankon Polley**
+
+**Developer | Programmer | Technology Enthusiast**
+
+GitHub: "@anknpolley123" (https://github.com/anknpolley123)
+
+---
+
+
+<p align="center">
+  <b>SubuGPT — Organize Your Thoughts. Build Your Future.</b>
+  <br>
+  Made with ❤️ by Ankon Polley
+</p>
