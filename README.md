@@ -140,6 +140,11 @@ For custom models you have to use all these steps.
 ## Example of Custom Models
 ![SubuGPT Custom Model Example](assets/Screenshot_20260827_142053_Termux.jpg)
 
+## Disclaimer
+
+The Developer is never responsible for any harm or damages cause by this repository. Please read the full [Legal Disclaimer](DISCLAIMER.md) before use.
+
+
 ## For Support
 
 <p align="left">
