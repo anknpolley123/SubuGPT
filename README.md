@@ -159,6 +159,13 @@ The Developer is never responsible for any harm or damages cause by this reposit
 
 Project URL: https://github.com/anknpolley123/SubuGPT
 
+## 📧 Contact
+
+<p align="left">
+  <a href="mailto:ankonpolley@proton.me"><img src="https://img.shields.io/badge/Proton_Mail-Contact_Me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Contact Ankon via Proton Mail" /></a>
+</p>
+
+---
 
 ## 👨‍💻 Developer
 
