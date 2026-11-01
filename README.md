@@ -39,7 +39,7 @@ cd SubuGPT
 
 ```bash
 
-#Step 1
+# Step 1
 
 #create virtual environment 
 
